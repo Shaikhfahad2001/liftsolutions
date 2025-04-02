@@ -6123,13 +6123,13 @@ input:checked + .switch:before {
 
 @keyframes bgg {
   0% {
-    background: #ED6E5A;
+    background: #386c67;
   }
   50% {
-    background: #ED6E5A;
+    background: #386c67;
   }
   100% {
-    background: #ED6E5A;
+    background: #386c67;
   }
 }
 .loader {
